@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\rajak\eclipse-workspace\JavaDesignPatterns\.metadata\.plugins\org.eclipse.jdt.core
+1509799344.index
+1865797976.index
+566981267.index
